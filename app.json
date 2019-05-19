@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "summrize",
+    "description": "Daily digest of News and interesting articles.",
+    "slug": "summrize",
+    "privacy": "unlisted",
+    "sdkVersion": "30.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.30",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash-white.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.summrize"
+    },
+    "android": {
+      "package": "com.summrize"
+    }
+  }
+}
