@@ -7,4 +7,4 @@ API used for app is no longer active but available with server-side code at http
 
 Basic multi-screep app that was built using tools at Expo.io
 
-Check the wiki for more https://github.com/todarko/ReddDataMine/wiki
+Check the wiki for more https://github.com/todarko/summrize-fe/wiki
